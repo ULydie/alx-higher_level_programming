@@ -10,8 +10,8 @@ else:
     print("Last digit of {}".format(number), end=' ')
 
 if numb > 5:
-        print("is {} and is greater than 5".format(numb))
+    print("is {} and is greater than 5".format(numb))
 elif numb == 0:
-        print("is {} and is 0".format(numb))
+    print("is {} and is 0".format(numb))
 elif numb < 6 and numb != 0:
-        print("is {} and is less than 6 and not 0".format(numb))
+    print("is {} and is less than 6 and not 0".format(numb))
